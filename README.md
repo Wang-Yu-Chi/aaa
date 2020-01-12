@@ -1,12 +1,12 @@
 # Practicing Git
 
-**aaa**
+** aaa **
 
-#aaa
+# aaa
 
-##aaa
+## aaa
 
-######aaaa
+###### aaaa
 
 * Item 1
 * Item 2
