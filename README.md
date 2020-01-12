@@ -19,7 +19,7 @@ aaa
 `Format one word or one line Format one word or one line Format one word or one line Format one word or one line Format one word or one line Format one word or one line`
 
     code (4 spaces indent)
-    ***
+***
     code (4 spaces indent)
     code (4 spaces indent)
     code (4 spaces indent)
