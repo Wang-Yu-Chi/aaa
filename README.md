@@ -1,6 +1,6 @@
 # Practicing Git
 
-** aaa **
+**aaa**
 
 # aaa
 
